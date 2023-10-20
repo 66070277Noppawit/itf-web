@@ -1,0 +1,32 @@
+#websitetitle {
+    font-size: 128px;
+    color: aqua;
+    font-weight: 200;
+    font-style: italic;
+}
+
+.redText {
+    color: crimson;
+    font-weight: 800;
+    font-size: 32px;
+}
+
+#first {
+    display: inline-block;
+    margin: 80px blue solid;
+    padding: 30px 0px;
+}
+
+#teem {
+    font-size: 32px;
+}
+.theFirst {
+    font-size: 64px;
+}
+
+.masrt {
+    display: inline-block;
+    width: 600px;
+    border: 2px black solid;
+    padding: 50px 20px;
+}
